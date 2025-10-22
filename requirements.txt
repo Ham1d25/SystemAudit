@@ -1,0 +1,18 @@
+# minimal (core)
+psutil>=5.9.0
+
+# optional (uncomment whichever you need)
+requests>=2.28.0
+pyyaml>=6.0
+GPUtil>=1.4.0
+nvidia-ml-py3>=7.352.0
+netifaces>=0.11.0
+python-dotenv>=1.0.0
+click>=8.1.0
+tqdm>=4.65.0
+
+# dev
+pytest>=7.1.0
+flake8>=5.0.0
+black>=24.1.0
+mypy>=1.8.0
